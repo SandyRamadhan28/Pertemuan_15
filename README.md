@@ -102,4 +102,4 @@ print(df)
 ![image](image/sintaks.PNG)
 
 8. Jika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah:
-![image](image/output.png)
+![image](image/output.PNG)
