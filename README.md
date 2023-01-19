@@ -13,7 +13,7 @@
 
 ### Contoh Penggunaan
 * PIP List
-![image](image/piplist.PNG)
+![image](image/piplist.png)
 
 
 ## Web Scraping Menggunakan Python
@@ -47,7 +47,7 @@
 * Requests merupakan library HTTP untuk proses mengirim dan mengambil data menggunakan protokol HTTP.
 * Untuk menginstallnya menggunakan perintah pip *pip install requests* 
 * Jika sudah terinstall maka saat *pip list* akan muncul seperti pada gambar di bawah:
-![image](image/requests.PNG)
+![image](image/requests.png)
 
 
 #### BeautifulSoup
@@ -62,10 +62,10 @@
 * Pandas adalah library open source pada Python yang sering digunakan untuk memproses data yang meliputi pembersihan data, manipulasi data, hingga melakukan analisis data. Ketika melakukan suatu analisis, kita tidak bisa menggunakan data mentah.
 * Penggunaan Pandas umumnya disingkat menjadi pd. Format penulisan saat akan memanggil library Pandas adalah `import pandas as pd`. Ingat untuk selalu import library yang akan digunakan terlebih dahulu. 
 * Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah:
-![image](image/pandas.PNG)
+![image](image/pandas.png)
 
 * Untuk melihat daftar package yang telah terinstall gunakan perintah `pip list`
-![image](image/listP.PNG)
+![image](image/listP.png)
 
 
 #### Google Colab
@@ -73,7 +73,7 @@
 2. Kemudian klik *File*
 3. Kemudian Buat *Notebook Baru*
 4. Beri nama proyeknya
-![image](image/gogglecolab.PNG)
+![image](image/gogglecolab.png)
 5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti di bawah:
 ```sh
 import requests
@@ -99,7 +99,7 @@ df = pd.DataFrame(data)
 print(df)
 ```
 7. Untuk tampilan lengkapnya sebagai berikut:
-![image](image/sintaks.PNG)
+![image](image/sintaks.png)
 
 8. Jika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah:
-![image](image/output.PNG)
+![image](image/output.png)
